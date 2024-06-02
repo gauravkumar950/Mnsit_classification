@@ -31,5 +31,6 @@ This project is licensed under the [MIT License](link-to-license), which permits
 We extend our gratitude to the creators of the MNIST dataset and the scikit-learn library for their invaluable contributions to the field of machine learning. Additionally, we appreciate the support of the open-source community and fellow contributors for their insights and feedback.
 
 ---
+**GIVEN FILE IS .pynb SO YOU CAN JUST DOWNLOAD THE FILE AND OPEN IT IN COLAB OR JUPYTER NOTEBOOK.**
 
 Feel free to adjust the description further if needed!
