@@ -1,11 +1,9 @@
 # Mnsit_classification
-Certainly! Here's the updated description with the addition of feature scaling:
-
 ---
 
 **Project Description:**
 
-This repository contains a digit classification project implemented using the MNIST dataset. The goal of the project is to classify handwritten digits from 0 to 9. Initially, we explored the dataset and preprocessed the images, including feature scaling to normalize the pixel values. For classification, we employed the Random Forest classifier, a powerful ensemble learning algorithm known for its robustness and versatility. Through extensive experimentation and hyperparameter tuning, we achieved an impressive accuracy of 96%, showcasing the efficacy of the Random Forest approach for this task.
+This repository contains a digit classification project implemented using the MNIST dataset. The goal of the project is to classify handwritten digits from 0 to 9. Initially, we explored the dataset and preprocessed the images, including feature scaling to normalize the pixel values. For classification, we employed the Random Forest classifier. Through hyperparameter tuning, we achieved an impressive accuracy of 96%, showcasing the efficacy of the Random Forest approach for this task.
 
 **Key Features:**
 
